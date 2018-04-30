@@ -1,4 +1,4 @@
-# COMP 271 002 F17 Lab 6 (Week 8)
+# COMP 271 SU18 Lab 6 (Week 8)
 
 # Team project
 
