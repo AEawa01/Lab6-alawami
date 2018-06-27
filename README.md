@@ -35,11 +35,11 @@ By entering customers' names at different rates, try to create scenarios where c
 
 # Grading
 
-- 1 submission via GitHub
-- 2 completion of items marked TODO in `FixedArrayQueue` and tests passing
-- 1 completion of `SingleQueueService` and correct behavior
-- 1 written part
-  - 0.8 responses to the questions above
-  - 0.2 grammar, style, formatting
+- 8 submission via GitHub
+- 16 completion of items marked TODO in `FixedArrayQueue` and tests passing
+- 8 completion of `SingleQueueService` and correct behavior
+- 8 written part
+  -6 responses to the questions above
+  - 2 grammar, style, formatting
 
-*5 points TOTAL*
+*40 points TOTAL*
