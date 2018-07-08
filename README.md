@@ -1,8 +1,8 @@
 # COMP 271 SU18 Lab 6 (Week 8)
 
-# Team project
+# Optional Team assignment
 
-Work in teams of two.
+You may optionally work with a partner.
 
 # Objectives
 
